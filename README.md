@@ -1,6 +1,6 @@
 # Flammable-Maze
 AI Agents that try to navigate a path through a randomly generated 51x51 maze, with the addition of a fire that spreads at random from the center of the maze.
-All Agents utilize A* Search Algorithm for Planning of the paths 
+All Agents utilize A* Search Algorithm for Planning of the paths. 
 
 Agent 1 - Plans the Shortest Path to the Goal cell ignoring the spreading fire
 
